@@ -18,7 +18,26 @@ header{
     justify-content: center;
 }
 
-.jumbotron .col-4{
+.jumbotron .col-7{
     text-align: center;
     color: white;
+}
+.fa-star{
+    color: white;
+}
+.starline{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.line{
+    width: 100px;
+    border: solid 1px;
+    height: 0px;
+    margin: 20px;
+}
+
+.jumbotron h3{
+    font-size: 15px;
+    margin-top: 20px;
 }

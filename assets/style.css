@@ -84,7 +84,8 @@ footer .row{
     padding-top: 30px;
 }
 
-span{
+p a{
+    text-decoration: none;
     color: #19bc9d;
 }
 

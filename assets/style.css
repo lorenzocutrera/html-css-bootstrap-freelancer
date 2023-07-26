@@ -3,7 +3,7 @@ body{
 }
 
 header{
-    height: 50px;
+    min-height: 50px;
     background-color: #2c3f51;
 }
 

@@ -108,3 +108,10 @@ p a{
     padding-top: 10px;
     font-size: 10px;
 }
+
+@media screen and (max-width: 576px) {
+    .container{
+        width: 90%;
+        margin: auto;
+    }
+}
